@@ -1,1 +1,2 @@
-# Automated_EDA
+various types of automated eda(exploratory data analysis) through some codes
+PYTHON
